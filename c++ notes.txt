@@ -1,0 +1,37 @@
+#include <iostream>
+using namespace std;
+int main() {
+    cout << "Hello World";
+    return 0;
+}
+
+line one is header file library
+line two means we can use names for obj and var from standard library
+line three  int main() is a "function" for C++; brackets for func execution
+line four cout is see-out; object used together with the << (insertion operator) to output/print text
+C++ ends in semicolon
+line 5 ends the main function
+
+
+can be 
+{
+    cout ""
+    cout ""
+}
+
+insert new line, you can use \n character < preferred and used more often
+
+\n\n creates blank line
+
+end1 creates blank line
+
+// creates comments (like JS)
+
+multiple line comment /* ...... */
+
+variables:
+int - stores integers without decimals
+double - stores floating point numbers
+char - stores single characters
+string - stores text
+bool stores two states: true or false
