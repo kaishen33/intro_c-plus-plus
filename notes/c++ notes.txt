@@ -35,3 +35,4 @@ double - stores floating point numbers
 char - stores single characters
 string - stores text
 bool stores two states: true or false
+
